@@ -1,0 +1,21 @@
+/* .navbar {
+  flex-direction: row-reverse;
+} */
+
+.displayright {
+  flex-direction: row-reverse;
+}
+
+body {
+    background-color: bisque;
+}
+#navbarNav{
+    flex-direction: row-reverse;
+    background-color: bisque;
+}
+
+margin-bottom:25px;
+
+.projects{
+    object-fit: cover;
+}
